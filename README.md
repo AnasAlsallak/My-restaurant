@@ -1,5 +1,8 @@
 # My-restaurant
 
-![Website layout](Sample Wireframe-Anas Alsallak .png "Website layout")
+![Website layout]('Sample Wireframe-Anas Alsallak .png')
 
-![Menu layout](Menu-Anas Alsallak.png "Menu layout")
+___
+
+![Menu layout]('Menu-Anas Alsallak.png')
+
