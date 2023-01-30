@@ -1,8 +1,8 @@
 # My-restaurant
 
-![Website layout](Sample Wireframe.jpg)
+![Website layout](SampleWireframe.jpg)
 
 ___
 
-![Menu layout](Sample Wireframe.jpg)
+![Menu layout](Hero.jpg)
 
